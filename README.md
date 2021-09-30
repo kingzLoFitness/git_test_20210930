@@ -1,0 +1,1 @@
+This is Kingsley's next atempt at git project (see date on main directory).
